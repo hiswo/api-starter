@@ -18,3 +18,7 @@ Personal development log — notes, findings, and ongoing work.
 - Refactored module structure for clarity
 - Added .editorconfig for consistent formatting
 - Pinned dependency versions for reproducibility
+
+## 2026-03-30
+- Updated CI cache strategy
+- Updated .gitignore to exclude build artifacts
